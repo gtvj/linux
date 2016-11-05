@@ -82,6 +82,11 @@ Here are a few things I like to do:
 * In Ubuntu 'Appearance' settings set:
     * Set 'Launcher icon size' smaller (28 is good)
     * 'Auto-hide the Launcher' with 'Reveal sensitivity' to highest setting
+* Terminal:
+    * Within Terminal Preferences change the current Profile to:
+	* Uncheck 'Use colours from system theme'
+	* Select the 'Grey on black' built-in scheme
+	* Under 'Palette' choose the XTerm built-in scheme
     
 ## Keyboard shortcuts
 
