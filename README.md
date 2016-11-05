@@ -46,6 +46,20 @@ Within CompizConfig Settings Manager:
     * Click the 'Disabled' button and check 'Enabled'
     * Click 'Grab key combination'
     * Set `<super>space` as the combination
+    
+## Keyboard shortcuts
+
+Useful keyboard shortcuts (some of which are dependent on the steps outlined above) are: 
+
+* Launcher:
+ * **Super + Space** opens launcher
+ * **Ctrl + Tab** switches between lenses
+* Terminal:
+* **Ctrl + Alt + T** opens Terminal
+* Window management:s
+* **Ctrl + Super + [Up | Down]** Maximises, minimises or restores the current window
+* **Super + W** Spreads all windows
+* **Ctrl + Alt + D** Shows the desktop
 
 
 
