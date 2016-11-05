@@ -47,6 +47,14 @@ Within CompizConfig Settings Manager:
     * Click 'Grab key combination'
     * Set `<super>space` as the combination
     
+### Optional steps
+
+#### Cosmetic
+
+Here are a few things I like to do:
+
+* Clear the Launcher by right clicking items and selecting 'Unlock from launcher'
+    
 ## Keyboard shortcuts
 
 Useful keyboard shortcuts (some of which are dependent on the steps outlined above) are: 
@@ -56,10 +64,11 @@ Useful keyboard shortcuts (some of which are dependent on the steps outlined abo
     * `Ctrl + Tab` switches between lenses
 * Terminal:
     * `Ctrl + Alt + T` opens Terminal
-* Window management:s
+* Window management:
     * `Ctrl + Super + [Up | Down]` Maximises, minimises or restores the current window
     * `Super + W` Spreads all windows
     * `Ctrl + Alt + D` Shows the desktop
+    * `Ctrl + [T | W]` Creates or closes tabs (it also closes the application if there's only one tab)
 
 
 
