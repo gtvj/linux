@@ -46,6 +46,18 @@ Within CompizConfig Settings Manager:
     * Click the 'Disabled' button and check 'Enabled'
     * Click 'Grab key combination'
     * Set `<super>space` as the combination
+
+### Install and configure development tools
+
+#### Git
+
+To install and configure Git use:
+
+* `sudo apt install git`
+* `git config --global user.email "youremail@yourdomain.com"`
+* `git config --global user.name "Gwyn Jones"`
+
+
     
 ### Optional steps
 
