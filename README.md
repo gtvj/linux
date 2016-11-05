@@ -71,10 +71,12 @@ Using **Synaptic Package Manager**:
 
 #### Configure Bash
 
-Append these commands to `~/.profile`
+Append these commands to `~/.bashrc`
 
 ```bash
+####################################################
 # Custom settings from the Linux repository by @gtvj
+####################################################
 
 # Managing history
 export HISTSIZE=10000 # 500 is the default
