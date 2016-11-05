@@ -57,7 +57,11 @@ To install and configure Git use:
 * `git config --global user.email "youremail@yourdomain.com"`
 * `git config --global user.name "Gwyn Jones"`
 
+#### NodeJS and NPM
 
+Using **Synaptic Package Manager**:
+
+* Install`nodejs` and `npm` packages along with the dependencies identified by Synaptic Package Manager
     
 ### Optional steps
 
