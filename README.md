@@ -69,7 +69,9 @@ Using **Synaptic Package Manager**:
 * Run `sudo dpkg --install atom-amd64.deb` (replacing `atom-amd64.deb` with the name of the file downloaded in the previous step
 * Use `atom` command to launch Atom
 
-### Install other software
+### Install other softwarebe
+
+#### Dropbox
 
 * Install Dropbox via **Ubuntu Software**. When you first download it you'll:
      * be prompted to download the daemon.
