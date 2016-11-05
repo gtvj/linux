@@ -69,6 +69,27 @@ Using **Synaptic Package Manager**:
 * Run `sudo dpkg --install atom-amd64.deb` (replacing `atom-amd64.deb` with the name of the file downloaded in the previous step
 * Use `atom` command to launch Atom
 
+#### Configure Bash
+
+Append these commands to `~/.profile`
+
+```bash
+# Custom settings from the Linux repository by @gtvj
+
+# Managing history
+export HISTSIZE=10000 # 500 is the default
+export HISTCONTROL=ignoreboth # ignoredups:ignorespace
+export HISTIGNORE="history:pwd:exit:ls:ls -a:clear"
+
+# Customising the command prompt
+PS1="\W \$ > " # \W shows the current directory
+
+# Useful aliases
+alias gst="git status"
+alias glg="git log --oneline --decorate --graph"
+
+```
+
 ### Install other softwarebe
 
 #### Dropbox
