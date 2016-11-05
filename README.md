@@ -52,14 +52,14 @@ Within CompizConfig Settings Manager:
 Useful keyboard shortcuts (some of which are dependent on the steps outlined above) are: 
 
 * Launcher:
- * **Super + Space** opens launcher
- * **Ctrl + Tab** switches between lenses
+    * `Super + Space` opens launcher
+    * `Ctrl + Tab` switches between lenses
 * Terminal:
-* **Ctrl + Alt + T** opens Terminal
+    * `Ctrl + Alt + T` opens Terminal
 * Window management:s
-* **Ctrl + Super + [Up | Down]** Maximises, minimises or restores the current window
-* **Super + W** Spreads all windows
-* **Ctrl + Alt + D** Shows the desktop
+    * `Ctrl + Super + [Up | Down]` Maximises, minimises or restores the current window
+    * `Super + W` Spreads all windows
+    * `Ctrl + Alt + D` Shows the desktop
 
 
 
