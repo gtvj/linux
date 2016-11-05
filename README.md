@@ -62,6 +62,12 @@ To install and configure Git use:
 Using **Synaptic Package Manager**:
 
 * Install`nodejs` and `npm` packages along with the dependencies identified by Synaptic Package Manager
+
+#### Install Atom text editor
+
+* Download the latest `.deb` version of Atom from [atom.io](https://atom.io)
+* Run `sudo dpkg --install atom-amd64.deb` (replacing `atom-amd64.deb` with the name of the file downloaded in the previous step
+* Use `atom` command to launch Atom
     
 ### Optional steps
 
