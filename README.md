@@ -53,7 +53,13 @@ Within CompizConfig Settings Manager:
 
 Here are a few things I like to do:
 
+* Menu bar:
+    * Show battery percentage
+    * Turn Bluetooth off
 * Clear the Launcher by right clicking items and selecting 'Unlock from launcher'
+* In Ubuntu 'Appearance' settings set:
+    * Set 'Launcher icon size' smaller (28 is good)
+    * 'Auto-hide the Launcher' with 'Reveal sensitivity' to highest setting
     
 ## Keyboard shortcuts
 
