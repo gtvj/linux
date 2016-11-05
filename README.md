@@ -68,7 +68,15 @@ Using **Synaptic Package Manager**:
 * Download the latest `.deb` version of Atom from [atom.io](https://atom.io)
 * Run `sudo dpkg --install atom-amd64.deb` (replacing `atom-amd64.deb` with the name of the file downloaded in the previous step
 * Use `atom` command to launch Atom
-    
+
+### Install other software
+
+* Install Dropbox via **Ubuntu Software**. When you first download it you'll:
+     * be prompted to download the daemon.
+     * need to sign in
+* Choose the default destination `/home/gwyn/Dropbox/`
+* Use Selective Sync to include only `Web Development Archive` and `WebDevelopment`
+
 ### Optional steps
 
 #### Cosmetic
