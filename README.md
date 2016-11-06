@@ -2,7 +2,13 @@
 
 ## Purpose
 
-To capture information related to my migration to Linux as my primary OS. 
+To capture information related to my migration to Linux as my primary OS.
+
+## Approach
+
+The steps outlined below avoid PPAs and use the `/opt/` directory for manual installation of software (i.e. that which is not obtained via Ubuntu Software or Synaptic.
+
+> Some PPAs are created for development or for beta or even alpha testing. They are not guaranteed to include stable or well-tested software. Anyone is allowed to create a PPA and there is no review procedure, so you’ll also want to install only PPAs from sources you trust. Use at your own risk. [The Official Ubuntu Book, 9th Edition](https://www.safaribooksonline.com/library/view/the-official-ubuntu/9780134512501/ch06.html)
 
 ## Machine set-up
 
@@ -72,8 +78,6 @@ Using **Synaptic Package Manager**:
 #### Install Firefox Developer Edition
 
 At the time of writing this is a somewhat manual process since Firefox Developer edition is not available via Synaptic or Ubuntu software and I'm not keen in introducing PPAs.
-
-**Note: This installs Firefox to /opt/ where all applications should be placed**
 
 * Download the `.tar` file from [mozilla.org](https://www.mozilla.org/en-GB/firefox/developer/)
 * Extract the file contents with `tar xjf firefox-51.0a2.en-GB.linux-x86_64.tar.bz2` (replacing the filename shown with that which was downloaded)
