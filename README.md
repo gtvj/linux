@@ -92,7 +92,7 @@ alias glg="git log --oneline --decorate --graph"
 
 ```
 
-### Install other softwarebe
+### Install other software
 
 #### Dropbox
 
