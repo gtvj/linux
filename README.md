@@ -114,6 +114,9 @@ PS1="\W \$ > " # \W shows the current directory
 alias gst="git status"
 alias glg="git log --oneline --decorate --graph"
 
+# Aliases to launch software
+alias firefox="/opt/firefox_dev/./firefox &"
+
 ```
 
 ### Install other software
