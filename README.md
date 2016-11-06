@@ -113,7 +113,7 @@ Here are a few things I like to do:
 * Mouse & Touchpad:
     * Set 'Pointer speed' to fastest setting
 * Menu bar:
-    * Show battery percentage
+    * Turn battery time on (not percentage)
     * Turn Bluetooth off
 * Clear the Launcher by right clicking items and selecting 'Unlock from launcher'
 * In Ubuntu 'Appearance' settings set:
