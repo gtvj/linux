@@ -90,6 +90,9 @@ Categories=Application;Network;X-Developer;
 Comment=Firefox Developer Edition Web Browser.
 
 ```
+#### Install xclip (to replicate OSX pbcopy and pbpaste)
+* Use Synaptic to search for `xclip`
+* Mark it for installation and click 'apply'
 
 #### Configure Bash
 
@@ -108,9 +111,17 @@ export HISTIGNORE="history:pwd:exit:ls:ls -a:clear"
 # Customising the command prompt
 PS1="\W \$ > " # \W shows the current directory
 
-# Useful aliases
+#########
+# aliases
+#########
+
+# Git aliases
 alias gst="git status"
 alias glg="git log --oneline --decorate --graph"
+
+# Alias xclip to mimic OSX pbcopy and pbpaste
+alias pbcopy='xclip -selection clipboard'
+alias pbpaste='xclip -selection clipboard -o'
 
 # Aliases to launch software
 alias firefox="/opt/firefox_dev/./firefox &"
