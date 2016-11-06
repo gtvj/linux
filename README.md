@@ -1,10 +1,8 @@
 # Linux repository
 
-## Purpose
+## Purpose and approach
 
 To capture information related to my migration to Linux as my primary OS.
-
-## Approach
 
 The steps outlined below avoid PPAs and use the `/opt/` directory for manual installation of software (i.e. that which is not obtained via Ubuntu Software or Synaptic.
 
@@ -16,15 +14,11 @@ Follow these steps to configure a fresh Linux (Ubuntu) install for my developmen
 
 ### Install Ubuntu
 
-Restore the computer to factory settings using _either_: 
-
-* Dell Recovery tool (within the OS)
-* Booting from the recovery USB
+Restore the computer to factory settings using _either_ the **Dell Recovery tool (within the OS)** or **Booting from the recovery USB**
 
 ### Get updates
 
-* Use **Software updater** to get updates
-* **restart** when prompted
+* Use **Software updater** to get updates and **restart** when prompted
 * Open **Ubuntu Software** and install any updates listed in the **updates** panel
 
 ### Install Synaptic Package Manager
@@ -61,7 +55,7 @@ To install and configure Git use:
 
 * `sudo apt install git`
 * `git config --global user.email "youremail@yourdomain.com"`
-* `git config --global user.name "Gwyn Jones"`
+* `git config --global user.name "Your name"`
 
 #### NodeJS and NPM
 
