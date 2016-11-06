@@ -108,6 +108,8 @@ alias glg="git log --oneline --decorate --graph"
 
 Here are a few things I like to do:
 
+* Screen Display:
+    * Set 'Scale for menu and title bars' to 1.88 (and check that 'Resolution' is 3200 x 1800)
 * Menu bar:
     * Show battery percentage
     * Turn Bluetooth off
