@@ -69,6 +69,30 @@ Using **Synaptic Package Manager**:
 * Run `sudo dpkg --install atom-amd64.deb` (replacing `atom-amd64.deb` with the name of the file downloaded in the previous step
 * Use `atom` command to launch Atom
 
+#### Install Firefox Developer Edition
+
+At the time of writing this is a somewhat manual process since Firefox Developer edition is not available via Synaptic or Ubuntu software and I'm not keen in introducing PPAs.
+
+**Note: This installs Firefox to /opt/ where all applications should be placed**
+
+* Download the `.tar` file from [mozilla.org](https://www.mozilla.org/en-GB/firefox/developer/)
+* Extract the file contents with `tar xjf firefox-51.0a2.en-GB.linux-x86_64.tar.bz2` (replacing the filename shown with that which was downloaded)
+* Move the extracted file to `/opt/` with `sudo mv firefox /opt/firefox_dev` (replacing 'firefox' with the name of the extracted folder)
+* Create this 'desktop file' in the location shown `~/.local/share/applications/firefox_dev.desktop` and add the code below to it (note: the paths shown below should match the installation).
+
+```
+[Desktop Entry]
+Name=Firefox Developer
+GenericName=Firefox Developer Edition
+Exec=/opt/firefox_dev/firefox
+Terminal=false
+Icon=/opt/firefox_dev/browser/icons/mozicon128.png
+Type=Application
+Categories=Application;Network;X-Developer;
+Comment=Firefox Developer Edition Web Browser.
+
+```
+
 #### Configure Bash
 
 Append these commands to `~/.bashrc`
