@@ -108,9 +108,6 @@ export HISTSIZE=10000 # 500 is the default
 export HISTCONTROL=ignoreboth # ignoredups:ignorespace
 export HISTIGNORE="history:pwd:exit:ls:ls -a:clear"
 
-# Customising the command prompt
-PS1="\W \$ > " # \W shows the current directory
-
 #########
 # aliases
 #########
