@@ -104,12 +104,14 @@ alias glg="git log --oneline --decorate --graph"
 
 ### Optional steps
 
-#### Cosmetic
+#### Look and feel
 
 Here are a few things I like to do:
 
 * Screen Display:
     * Set 'Scale for menu and title bars' to 1.88 (and check that 'Resolution' is 3200 x 1800)
+* Mouse & Touchpad:
+    * Set 'Pointer speed' to fastest setting
 * Menu bar:
     * Show battery percentage
     * Turn Bluetooth off
