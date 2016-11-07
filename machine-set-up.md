@@ -125,7 +125,7 @@ alias firefox="/opt/firefox_dev/./firefox &"
      * be prompted to download the daemon.
      * need to sign in
 * Choose the default destination `/home/gwyn/Dropbox/`
-* Use Selective Sync to include only `Web Development Archive` and `WebDevelopment`
+* Use Selective Sync to include only `WebDevelopment`
 
 ## Optional steps
 
