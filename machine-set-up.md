@@ -145,5 +145,4 @@ Here are a few things I like to do:
 * Terminal:
     * Within Terminal Preferences change the current Profile to:
 	* Uncheck 'Use colours from system theme'
-	* Select the 'Grey on black' built-in scheme
 	* Under 'Palette' choose the XTerm built-in scheme
