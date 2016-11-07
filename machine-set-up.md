@@ -27,6 +27,10 @@ Use **Synaptic Package Manager** to:
 
 Use **Ubuntu Software** to search for and install CompizConfig Settings Manager.
 
+## Install Unity Tweak Tool
+
+Use **Ubuntu Software** to search for and install Unity Tweak Tool.
+
 ## Configure CompizConfig Settings Manager
 
 Within CompizConfig Settings Manager: 
