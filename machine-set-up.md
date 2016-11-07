@@ -80,6 +80,8 @@ Categories=Application;Network;X-Developer;
 Comment=Firefox Developer Edition Web Browser.
 
 ```
+Having done this you should sign-in to Firefox and enable synchronisation. 
+
 ### Install xclip (to replicate OSX pbcopy and pbpaste)
 * Use Synaptic to search for `xclip`
 * Mark it for installation and click 'apply'
