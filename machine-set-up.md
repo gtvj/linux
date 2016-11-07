@@ -88,7 +88,8 @@ Having done this you should sign-in to Firefox and enable synchronisation.
 
 ### Configure Bash
 
-Append these commands to `~/.bashrc`
+* Createa a backup of `~/.bashrc` with `cp .bashrc .bashrc.bak`
+* Append these commands to `~/.bashrc`
 
 ```bash
 ####################################################
