@@ -4,11 +4,11 @@ Follow these steps to configure a fresh Linux (Ubuntu) install for my developmen
 
 ## Install Ubuntu
 
-Restore the computer to factory settings using _either_ the **Dell Recovery tool (within the OS)** or **Booting from the recovery USB**. Reboot when prompted.
+Restore the computer to factory settings using _either_ the **Dell Recovery tool (within the OS)** or **Booting from the recovery USB**. Provide system configuration and restart when prompted.
 
 ## Get updates
 
-* Use **Software updater** to get updates and **restart** when prompted
+* Use **Software updater** to get updates and **restart** if prompted
 * Open **Ubuntu Software** and install any updates listed in the **updates** panel
 
 ## Install Synaptic Package Manager
