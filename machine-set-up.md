@@ -68,7 +68,7 @@ Note: while there is a package called `nodejs` available on Synaptic it is quite
 
 ### Ruby
 
-Using **InSynaptic Package Manager**:
+Using **Synaptic Package Manager**:
 
 * Install `Ruby` and its dependencies via Synaptic. Note: use the version that has the Ubuntu icon (since this is supported by the distribution.
 
