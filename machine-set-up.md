@@ -51,11 +51,20 @@ To install and configure Git use:
 * `git config --global user.email "youremail@yourdomain.com"`
 * `git config --global user.name "Your name"`
 
-### NodeJS and NPM
+### Install Curl
 
-Using **Synaptic Package Manager**:
+Curl is needed for installing the latest LTS version of Node.js and NPM
 
-* Install `nodejs` and `npm` packages along with the dependencies identified by Synaptic Package Manager
+* `sudo apt install curl`
+
+### Node.js and NPM
+
+Follow the instructions for installing Node.js via a package manager on **Ubuntu based distributions** provided on the [Node.js website](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions). At the time of writing these are: 
+
+* `curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -`
+* `sudo apt-get install -y nodejs`
+
+Note: while there is a package called `nodejs` available on Synaptic it is quite old and does not work with some Grunt tasks.
 
 ### Ruby
 
