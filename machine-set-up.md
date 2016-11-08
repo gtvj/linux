@@ -55,7 +55,13 @@ To install and configure Git use:
 
 Using **Synaptic Package Manager**:
 
-* Install`nodejs` and `npm` packages along with the dependencies identified by Synaptic Package Manager
+* Install `nodejs` and `npm` packages along with the dependencies identified by Synaptic Package Manager
+
+### Ruby
+
+Using **InSynaptic Package Manager**:
+
+* Install `Ruby` and its dependencies via Synaptic. Note: use the version that has the Ubuntu icon (since this is supported by the distribution.
 
 ### Install Atom text editor
 
