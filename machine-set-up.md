@@ -141,16 +141,6 @@ alias firefox="/opt/firefox_dev/./firefox &"
 
 ```
 
-## Install other software
-
-### Dropbox
-
-* Install Dropbox via **Ubuntu Software**. When you first download it you'll:
-     * be prompted to download the daemon.
-     * need to sign in
-* Choose the default destination `/home/gwyn/Dropbox/`
-* Use Selective Sync to include only `WebDevelopment`
-
 ## Optional steps
 
 ### Look and feel
