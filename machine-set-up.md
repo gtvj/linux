@@ -63,6 +63,10 @@ Using **InSynaptic Package Manager**:
 
 * Install `Ruby` and its dependencies via Synaptic. Note: use the version that has the Ubuntu icon (since this is supported by the distribution.
 
+### Install SASS
+
+* Typing `sudo gem install sass` will install SASS
+
 ### Install Atom text editor
 
 * Download the latest `.deb` version of Atom from [atom.io](https://atom.io)
