@@ -19,9 +19,7 @@ Use **Ubuntu Software** to search for and install Synaptic Package Manager.
 
 Use **Synaptic Package Manager** to:
 
-* search for the `dell-super-key` package
-* mark it for 'complete removal'
-* apply changes
+Search for the `dell-super-key` package. Mark it for 'complete removal' and apply changes.
 
 ## Install CompizConfig Settings Manager
 
@@ -35,7 +33,7 @@ Use **Ubuntu Software** to search for and install Unity Tweak Tool.
 
 Within CompizConfig Settings Manager: 
 
-* Open the 'Ubunty Unity Plugin' and go to its 'Launcher' tab
+* Open the 'Ubuntu Unity Plugin' and go to its 'Launcher' tab
 * For the 'Key to show the Dash, Launcher and Help Overlay' option:
     * Click the 'Disabled' button and check 'Enabled'
     * Click 'Grab key combination'
@@ -117,7 +115,7 @@ Having done this you should sign-in to Firefox and enable synchronisation.
 
 ### Configure Bash
 
-* Createa a backup of `~/.bashrc` with `cp .bashrc .bashrc.bak`
+* Create a backup of `~/.bashrc` with `cp .bashrc .bashrc.bak`
 * Append these commands to `~/.bashrc`
 
 ```bash
