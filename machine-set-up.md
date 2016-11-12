@@ -76,6 +76,12 @@ Using **Synaptic Package Manager**:
 
 * Typing `sudo gem install sass` will install SASS
 
+### Install PhpStorm
+
+* Download the `.tar` file from JetBrains
+* Extract the file contents with `tar xzf PhpStorm2016.2.2.tar.gz` (using the name of the downloaded `.tar` file)
+* The extracted folder will contain a file named `Install-Linux-tar.txt`. Follow the instructions.
+
 ### Install Atom text editor
 
 * Download the latest `.deb` version of Atom from [atom.io](https://atom.io)
