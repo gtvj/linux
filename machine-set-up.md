@@ -48,6 +48,7 @@ To install and configure Git use:
 * `sudo apt install git`
 * `git config --global user.email "youremail@yourdomain.com"`
 * `git config --global user.name "Your name"`
+* `git config --global core.editor "vi"`
 
 ### Install Curl
 
