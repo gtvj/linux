@@ -23,6 +23,11 @@ Useful keyboard shortcuts (some of which are dependent on the steps outlined abo
     * `Ctrl + Tab` switches between lenses
 * Terminal:
     * `Ctrl + Alt + T` opens Terminal
+    * `Ctrl + L` clears the terminal - in the same way as `clear` would
+    * `Ctrl + [A | E]` moves to the start or end of the line
+    * `[Ctrl | Alt] + [B | F]` moves forward or backward by one word or character
+    * `[Ctrl | Alt] + T` transposes the word or character at the cursor
+    * `Alt + backspace` deletes the current word
 * Window management:
     * `Ctrl + Super + [Up | Down]` Maximises, minimises or restores the current window
     * `Super + W` Spreads all windows
