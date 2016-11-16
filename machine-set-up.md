@@ -73,6 +73,12 @@ Using **Synaptic Package Manager**:
 
 ### Install SASS
 
+### PHP
+
+Using **Synaptic Package Manager**:
+
+* Install `php` and its dependencies via Synaptic. Note: use the version that has the Ubuntu icon (since this is supported by the distribution.
+
 * Typing `sudo gem install sass` will install SASS
 
 ### Install PhpStorm
