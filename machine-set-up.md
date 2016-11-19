@@ -87,6 +87,10 @@ Using **Synaptic Package Manager**:
 * Extract the file contents with `tar xzf PhpStorm2016.2.2.tar.gz` (using the name of the downloaded `.tar` file)
 * The extracted folder will contain a file named `Install-Linux-tar.txt`. Follow the instructions.
 
+#### PhpStorm settings repository
+
+Set the PhpStorm settings repository to be [https://github.com/gtvj/phpstorm-settings](https://github.com/gtvj/phpstorm-settings)
+
 ### Install Atom text editor
 
 * Download the latest `.deb` version of Atom from [atom.io](https://atom.io)
