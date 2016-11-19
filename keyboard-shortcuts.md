@@ -32,5 +32,5 @@ occurences (multiple cursors)
 * `Ctrl + Y` to delete the current line
 
 ## PhpStorm Git specific
-    * `Ctrl + K` commit changes
-    * `Shift + Ctrl + Alt + D` show changes
+* `Ctrl + K` commit changes
+* `Shift + Ctrl + Alt + D` show changes
