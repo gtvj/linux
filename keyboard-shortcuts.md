@@ -1,5 +1,8 @@
 # Ubuntu
 
+* `Ctrl + Alt + Delete` Shut down
+* `Ctrl + Alt + L` Log out
+
 ## Unity Window management:
 
 * `Ctrl + Super + [Up | Down]` Maximises, minimises or restores the current window
