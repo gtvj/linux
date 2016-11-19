@@ -28,6 +28,9 @@ occurences (multiple cursors)
 * `Alt + Insert` generate code (context sensitive)
 * `Ctrl + F4` close active editor tab
 * `Shift + Ctrl + V` paste from history
-* Git
+* `Ctrl + D` to duplicate the current line
+* `Ctrl + Y` to delete the current line
+
+## PhpStorm Git specific
     * `Ctrl + K` commit changes
     * `Shift + Ctrl + Alt + D` show changes
