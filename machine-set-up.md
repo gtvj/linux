@@ -87,6 +87,14 @@ Using **Synaptic Package Manager**:
 * Extract the file contents with `tar xzf PhpStorm2016.2.2.tar.gz` (using the name of the downloaded `.tar` file)
 * The extracted folder will contain a file named `Install-Linux-tar.txt`. Follow the instructions.
 
+#### Enabling code formatting in PhpStorm
+
+Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm:
+
+* Opening CompizConfig Settings Manager
+* Opening the Ubuntu Unity Plugin
+* Removing the 'Key to lock the screen' option
+
 #### PhpStorm settings repository
 
 Set the PhpStorm settings repository to be [https://github.com/gtvj/phpstorm-settings](https://github.com/gtvj/phpstorm-settings)
@@ -165,6 +173,8 @@ alias phpstorm="/opt/PhpStorm-162.2380.11/bin/phpstorm.sh &"
 
 Here are a few things I like to do:
 
+* Keyboard:
+    * Under 'System > Shortcuts' set the 'Lock screen' shortcut to `Ctrl + Alt + Delete`
 * Mouse & Touchpad:
     * Set 'Pointer speed' to fastest setting
 * Menu bar:
