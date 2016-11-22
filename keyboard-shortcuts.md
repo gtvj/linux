@@ -40,3 +40,9 @@ occurences (multiple cursors)
 
 * `Ctrl + K` commit changes
 * `Shift + Ctrl + Alt + D` show changes
+
+## Firefox Developer Edition
+These shortcuts are for Firefox but may also work in Chrom(e|uim)
+
+* `Alt + Left Arrow` go back
+* `Alt + Right Arrow` go forward
