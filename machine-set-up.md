@@ -162,9 +162,11 @@ alias pbpaste='xclip -selection clipboard -o'
 # Aliases to launch software
 # Note: For the time being I'm opting for aliases rather than adding items 
 #       to PATH because it allows me to call them as I prefer in one step.
-alias firefox="/opt/firefox_dev/./firefox &"
-alias phpstorm="/opt/PhpStorm-162.2380.11/bin/phpstorm.sh &"
+alias firefox="/opt/firefox_dev/./firefox"
+alias phpstorm="/opt/PhpStorm-162.2380.11/bin/phpstorm.sh"
 
+# Note: the pomodoro alias is dependent upon firefox and phpstorm aliases
+alias pomodoro="phpstorm & firefox -url www.pluralsight.com"
 ```
 
 ## Optional steps
