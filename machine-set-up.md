@@ -165,8 +165,8 @@ alias pbpaste='xclip -selection clipboard -o'
 alias firefox="/opt/firefox_dev/./firefox"
 alias phpstorm="/opt/PhpStorm-162.2380.11/bin/phpstorm.sh"
 
-# Note: the pomodoro alias is dependent upon firefox and phpstorm aliases
-alias pomodoro="phpstorm & firefox -url www.pluralsight.com"
+# Note: the pomodoro alias is dependent upon the phpstorm aliase
+alias pomodoro="phpstorm & chromium-browser -url www.pluralsight.com"
 ```
 
 ## Optional steps
