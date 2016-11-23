@@ -41,6 +41,12 @@ Within CompizConfig Settings Manager:
 
 ## Install and configure development tools
 
+### Vim
+
+By default Ubuntu is provided with `vim-tiny` which does not support many of the commands I'm used to (such as change-inner-word etc.). Use Synaptic to locate and install the Ubuntu supported `vim-gnome` package and its dependencies.
+
+This package **also allows you to run Vim in a GUI** like MacVim by starting it with `vim -g`
+
 ### Git
 
 To install and configure Git use:
