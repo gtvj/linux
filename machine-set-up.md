@@ -93,6 +93,8 @@ Using **Synaptic Package Manager**:
 * Extract the file contents with `tar xzf PhpStorm2016.2.2.tar.gz` (using the name of the downloaded `.tar` file)
 * The extracted folder will contain a file named `Install-Linux-tar.txt`. Follow the instructions.
 
+Note: When upgrading PHPStorm you need to update your 
+
 #### Enabling code formatting in PhpStorm
 
 Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm:
@@ -169,7 +171,7 @@ alias pbpaste='xclip -selection clipboard -o'
 # Note: For the time being I'm opting for aliases rather than adding items 
 #       to PATH because it allows me to call them as I prefer in one step.
 alias firefox="/opt/firefox_dev/./firefox"
-alias phpstorm="/opt/PhpStorm-162.2380.11/bin/phpstorm.sh"
+alias phpstorm="/opt/PhpStorm-163.7743.50/bin/phpstorm.sh"
 
 # Note: the pomodoro alias is dependent upon the phpstorm aliase
 alias pomodoro="phpstorm & chromium-browser -url www.pluralsight.com"
