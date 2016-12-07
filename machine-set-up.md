@@ -91,11 +91,7 @@ Using **Synaptic Package Manager**:
 
 #### Enabling code formatting in PhpStorm
 
-Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm:
-this 
-* Opening CompizConfig Settings Manager
-* Opening the Ubuntu Unity Plugin
-* Removing the 'Key to lock the screen' option
+Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm by finding 'Keyboard' settings with the launcher and reassigning the related 'shortcut' to something else (like `Super + Alt + L`)
 
 #### PhpStorm settings repository
 
