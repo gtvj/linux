@@ -85,11 +85,9 @@ Using **Synaptic Package Manager**:
 
 ### Install PhpStorm
 
-* Download the `.tar` file from JetBrains
+* Download the `.tar` file from JetBrains (and check the checksum by passing it to `sha256sum`)
 * Extract the file contents with `tar xzf PhpStorm2016.2.2.tar.gz` (using the name of the downloaded `.tar` file)
-* The extracted folder will contain a file named `Install-Linux-tar.txt`. Follow the instructions.
-
-Note: When upgrading PHPStorm you need to update your 
+* The extracted folder will contain a file named `Install-Linux-tar.txt`. Follow the instructions (see the README of this repository for where to install it)
 
 #### Enabling code formatting in PhpStorm
 
