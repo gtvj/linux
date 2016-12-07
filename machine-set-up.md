@@ -91,7 +91,7 @@ Using **Synaptic Package Manager**:
 
 #### Enabling code formatting in PhpStorm
 
-Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm by finding 'Keyboard' settings with the launcher and reassigning the related 'shortcut' to something else (like `Super + Alt + L`)
+Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm by finding 'Keyboard' settings with the launcher and reassigning the related 'shortcut' to something else (like `Ctrl + Alt + Delete`)
 
 #### PhpStorm settings repository
 
@@ -168,7 +168,7 @@ alias pomodoro="phpstorm & chromium-browser -url www.pluralsight.com"
 Here are a few things I like to do:
 
 * Keyboard:
-    * Under 'System > Shortcuts' set the 'Lock screen' shortcut to `Ctrl + Alt + Delete`
+    * Under 'System > Shortcuts' set the 'Lock screen' shortcut to `Ctrl + Alt + Delete` (might have been done above)
 * Mouse & Touchpad:
     * Set 'Pointer speed' to fastest setting
 * Menu bar:
