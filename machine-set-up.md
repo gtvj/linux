@@ -71,15 +71,11 @@ Follow the instructions for installing Node.js via a package manager on **Ubuntu
 
 Note: while there is a package called `nodejs` available on Synaptic it is quite old and does not work with some Grunt tasks.
 
-### Ruby
-
-Using **Synaptic Package Manager**:
-
-* Install `Ruby` and its dependencies via Synaptic. Note: use the version that has the Ubuntu icon (since this is supported by the distribution.
-
 ### Install SASS
 
 * Typing `sudo gem install sass` will install SASS
+
+Note: this assumes Ruby is present (which can be checked via Synaptic)
 
 ### PHP
 
@@ -98,7 +94,7 @@ Note: When upgrading PHPStorm you need to update your
 #### Enabling code formatting in PhpStorm
 
 Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt + L` is also used by Unity to lock the screen. You can hand control over to PhpStorm:
-
+this 
 * Opening CompizConfig Settings Manager
 * Opening the Ubuntu Unity Plugin
 * Removing the 'Key to lock the screen' option
