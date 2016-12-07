@@ -97,12 +97,6 @@ Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt +
 
 Set the PhpStorm settings repository to be [https://github.com/gtvj/phpstorm-settings](https://github.com/gtvj/phpstorm-settings)
 
-### Install Atom text editor
-
-* Download the latest `.deb` version of Atom from [atom.io](https://atom.io)
-* Run `sudo dpkg --install atom-amd64.deb` (replacing `atom-amd64.deb` with the name of the file downloaded in the previous step
-* Use `atom` command to launch Atom
-
 ### Install Firefox Developer Edition
 
 At the time of writing this is a somewhat manual process since Firefox Developer edition is not available via Synaptic or Ubuntu software and I'm not keen in introducing PPAs.
