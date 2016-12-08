@@ -71,6 +71,10 @@ Follow the instructions for installing Node.js via a package manager on **Ubuntu
 
 Note: while there is a package called `nodejs` available on Synaptic it is quite old and does not work with some Grunt tasks.
 
+### Install Composer
+
+Use Synaptic to find and install the `composer` package.
+
 ### Install SASS
 
 * Typing `sudo gem install sass` will install SASS
