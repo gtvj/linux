@@ -159,7 +159,7 @@ alias pbpaste='xclip -selection clipboard -o'
 # Note: For the time being I'm opting for aliases rather than adding items 
 #       to PATH because it allows me to call them as I prefer in one step.
 alias firefox="/opt/firefox_dev/./firefox"
-alias phpstorm="/opt/PhpStorm-163.7743.50/bin/phpstorm.sh"
+alias phpstorm="/usr/local/bin/phpstorm"
 
 # Note: the pomodoro alias is dependent upon the phpstorm aliase
 alias pomodoro="phpstorm & chromium-browser -url www.pluralsight.com"
