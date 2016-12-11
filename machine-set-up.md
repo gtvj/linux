@@ -108,9 +108,9 @@ At the time of writing this is a somewhat manual process since Firefox Developer
 [Desktop Entry]
 Name=Firefox Developer
 GenericName=Firefox Developer Edition
-Exec=/opt/firefox_dev/firefox
+Exec=/opt/firefox/firefox
 Terminal=false
-Icon=/opt/firefox_dev/browser/icons/mozicon128.png
+Icon=/opt/firefox/browser/icons/mozicon128.png
 Type=Application
 Categories=Application;Network;X-Developer;
 Comment=Firefox Developer Edition Web Browser.
