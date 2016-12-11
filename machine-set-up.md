@@ -101,7 +101,7 @@ At the time of writing this is a somewhat manual process since Firefox Developer
 
 * Download the `.tar` file from [mozilla.org](https://www.mozilla.org/en-GB/firefox/developer/)
 * Extract the file contents with `tar xjf firefox-51.0a2.en-GB.linux-x86_64.tar.bz2` (replacing the filename shown with that which was downloaded)
-* Move the extracted file to `/opt/` with `sudo mv firefox /opt/firefox_dev` (replacing 'firefox' with the name of the extracted folder)
+* Move the extracted file to `/opt/` with `sudo mv firefox /opt/` (replacing 'firefox' with the name of the extracted folder)
 * Create this 'desktop file' in the location shown `~/.local/share/applications/firefox_dev.desktop` and add the code below to it (note: the paths shown below should match the installation).
 
 ```
@@ -152,7 +152,7 @@ alias pbpaste='xclip -selection clipboard -o'
 # Aliases to launch software
 # Note: For the time being I'm opting for aliases rather than adding items 
 #       to PATH because it allows me to call them as I prefer in one step.
-alias firefox="/opt/firefox_dev/./firefox"
+alias firefox="/opt/firefox/./firefox"
 alias phpstorm="/usr/local/bin/phpstorm"
 
 # Note: the pomodoro alias is dependent upon the phpstorm aliase
