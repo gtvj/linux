@@ -93,7 +93,7 @@ Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt +
 
 #### PhpStorm settings repository
 
-Set the PhpStorm settings repository to be [https://github.com/gtvj/phpstorm-settings](https://github.com/gtvj/phpstorm-settings)
+Set the PhpStorm settings repository to be [https://github.com/gtvj/phpstorm-settings](https://github.com/gtvj/phpstorm-settings.git)
 
 ### Install Firefox Developer Edition
 
