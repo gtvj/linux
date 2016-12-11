@@ -17,4 +17,4 @@ Follow the instructions provided for getting Homestead set up.
 * `vagrant up`
 * `vagrant ssh` - to remote into the VM
 * `cd Code/project` (or wherever the root of your Laravel app is)
-* Open a web browser and navigate to `http://laracasts.app` (or whatever your local app is being served from)
+* Open a web browser and navigate to `http://laracasts.app:8000` (or whatever your local app is being served from)
