@@ -156,7 +156,7 @@ alias firefox="/opt/firefox_dev/./firefox"
 alias phpstorm="/usr/local/bin/phpstorm"
 
 # Note: the pomodoro alias is dependent upon the phpstorm aliase
-alias pomodoro="phpstorm & chromium-browser -url www.pluralsight.com"
+alias pomodoro="phpstorm & chromium-browser -url www.laracasts.com"
 ```
 
 ## Optional steps
