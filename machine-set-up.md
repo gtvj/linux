@@ -81,12 +81,6 @@ Use Synaptic to find and install the `composer` package.
 
 Note: this assumes Ruby is present (which can be checked via Synaptic)
 
-### PHP
-
-Using **Synaptic Package Manager**:
-
-* Install `php` and its dependencies via Synaptic. Note: use the version that has the Ubuntu icon (since this is supported by the distribution.
-
 ### Install PhpStorm
 
 * Download the `.tar` file from JetBrains (and check the checksum by passing it to `sha256sum`)
