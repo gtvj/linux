@@ -95,6 +95,12 @@ Unfortunately, the default keybinding to reformat code in PhpStorm `Ctrl + Alt +
 
 Set the PhpStorm settings repository to be [https://github.com/gtvj/phpstorm-settings](https://github.com/gtvj/phpstorm-settings.git)
 
+### Install Atom text editor
+
+The problem with PhpStorm is that you have to create a project to do any work - and that isn't always appropriate for small tasks. Vim and GVim are great for working with text but their file browsing is a bit lacking. Atom is a good middle ground. 
+
+It's relatively easy to install Atom from the website. At the time of writing there are instructions on [the Atom website](http://flight-manual.atom.io/getting-started/sections/installing-atom/)
+
 ### Install Firefox Developer Edition
 
 At the time of writing this is a somewhat manual process since Firefox Developer edition is not available via Synaptic or Ubuntu software and I'm not keen in introducing PPAs.
