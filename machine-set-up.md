@@ -8,7 +8,7 @@ Restore the computer to factory settings using _either_ the **Dell Recovery tool
 
 ## Get updates
 
-* Use **Software updater** to get updates and **restart** if prompted
+* Use **Software updater** to update to the latest version of Ubuntu (the disk image is 16.04 and 17.04 is the latest at the time of writing)
 * Open **Ubuntu Software** and install any updates listed in the **updates** panel
 
 ## Install Synaptic Package Manager
