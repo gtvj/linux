@@ -10,8 +10,16 @@
 
 Within a terminal type `sudo apt remove dell-super-key` to remove the package that prevents the super key from working.
 
+## Ignore trackpad while typing
+
+Within 'System settings' under 'Mouse and Trackpad' choose 'Ignore trackpad while typing'
+
 ## Enable workspaces
 
-Within 'Appearance' choose 'Enable workspaces'
+Within 'Appearance' choose 'Enable workspaces' 
+
+## Install Unity Tweak Tool and CompizConfig Settings Manager
+
+See instructions in 16.04 setup instructions
 
 
