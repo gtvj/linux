@@ -9,3 +9,9 @@
 ## Remove Dell Super Key
 
 Within a terminal type `sudo apt remove dell-super-key` to remove the package that prevents the super key from working.
+
+## Enable workspaces
+
+Within 'Appearance' choose 'Enable workspaces'
+
+
