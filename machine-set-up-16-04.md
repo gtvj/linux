@@ -38,6 +38,7 @@ Within CompizConfig Settings Manager:
     * Click the 'Disabled' button and check 'Enabled'
     * Click 'Grab key combination'
     * Set `<super>space` as the combination
+* Disable the 'Key to lock screen' combination (because it conflicts with PhpStorm reformatting shortcut, which is used far more often)
 
 ## Install and configure development tools
 
