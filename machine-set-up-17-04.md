@@ -22,6 +22,12 @@ Within 'Appearance' choose 'Enable workspaces'
 
 See instructions in 16.04 setup instructions
 
+## Install 'Pointing devices' and enabled palm rejection
+
+This is an **important** one for peace of mind. The default palm rejection on the XPS/Ubuntu out of the box is dreadful.
+
+Search Ubuntu Software for 'Pointing devices' and install the app (it's the one that's described as the successor to GSynaptics). This will allow you to configure palm rejection properly
+
 ## Install XMind
 
 Having never got XMind to work in 16.x I've found that it does work in 17. To install it follow the [XMind 8 installation instructions](http://www.xmind.net/m/PuDC). The one amendment necessary is to the `xmind.desktop` file location. To get this to work I had to place it in `~/.local/share/applications/` rather than the location specified in the instructions.
